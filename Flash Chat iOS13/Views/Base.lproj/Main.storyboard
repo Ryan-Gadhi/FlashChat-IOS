@@ -51,7 +51,7 @@
                                     <color key="titleShadowColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="BYZ-38-t0r" kind="show" id="8KC-9a-TQc"/>
+                                    <segue destination="BYZ-38-t0r" kind="show" identifier="RegisterToChat" id="8KC-9a-TQc"/>
                                 </connections>
                             </button>
                         </subviews>
