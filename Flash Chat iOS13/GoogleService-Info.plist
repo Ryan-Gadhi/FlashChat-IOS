@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>470485546570-d33hh0m3rhcm92j0q7srmk4tb13dm9f1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.470485546570-d33hh0m3rhcm92j0q7srmk4tb13dm9f1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWYaGOBUsOwTmDbDLTkOj2uarrv1pG2KM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>470485546570</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.RyanGadhi.flash-chat</string>
+	<key>PROJECT_ID</key>
+	<string>flash-chat-gadhi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flash-chat-gadhi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:470485546570:ios:e3b6910c4bd2c1c27dd8b3</string>
+	<key>DATABASE_URL</key>
+	<string>https://flash-chat-gadhi.firebaseio.com</string>
+</dict>
+</plist>
